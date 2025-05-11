@@ -4,6 +4,7 @@ This project demonstrates how to set up a web application using Kubernetes with 
 
 ## CI/CD Setup
 This project uses a self-hosted GitHub Actions runner for CI/CD pipeline execution.
+Last updated: May 11, 2024 - Triggering CI/CD workflow
 
 ## Project Overview
 
