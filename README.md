@@ -2,6 +2,9 @@
 
 This project demonstrates how to set up a web application using Kubernetes with Minikube, implementing a CI/CD pipeline using GitHub Actions.
 
+## CI/CD Setup
+This project uses a self-hosted GitHub Actions runner for CI/CD pipeline execution.
+
 ## Project Overview
 
 The project consists of a MERN stack application (MongoDB, Express, React, Node.js) that has been containerized with Docker and deployed to a local Kubernetes cluster using Minikube.
